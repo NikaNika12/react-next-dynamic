@@ -1,1 +1,1 @@
-# react-next-dynamic
+# Next.js: SSR , SSG
